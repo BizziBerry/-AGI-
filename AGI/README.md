@@ -15,7 +15,7 @@
 ---
 
 ## Как просмотреть?
-- 📄 **Читать онлайн**: [GitHub Pages](https://github.com/BizziBerry/my-article/edit/main/AGI/AGI - Artificial General Intelligence.pdf) AGI/AGI - Artificial General Intelligence.pdf
+- 📄 **Читать онлайн**: [GitHub Pages](https://github.com/BizziBerry/my-article/edit/main/AGI/AGI - Artificial General Intelligence.pdf/) AGI/AGI - Artificial General Intelligence.pdf
 - 📂 **Исходный текст**: `article.md` (Markdown)
 - 🔍 **Сопроводительные материалы**: графики в папке `/figures`, данные в `/data`
 
